@@ -3,10 +3,11 @@
 }
 
 .app-header h1 {
-    flex-grow: 1;
+    flex-grow: 0;
 }
 
 .app-header h2 {
+    align-items: center;
     font-size: 1.2rem;
     color: gray;
 }
